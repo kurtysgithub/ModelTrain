@@ -14,8 +14,12 @@ The DCC++ signals - send from the controlunit through the tracks to the trains a
 A control unit with 6 manual controls have been constructed using an arduino and related hardware.<p>
 A decoder for the train is also build using an arduino.
 <p>BUT</p>
-Before you can run it all, we need to establish some Power Supplies for the system. 
-<p>AND we need to ensure the polarity of the tracks are OK, depending on the layout. To avoid short circuits when track-connections are 'twisted' we insert some automation electronics which switches the polarity of the track when a train is passing.</p>
+<p>
+Before you can run it all, we need to establish some Power Supplies for the system. </p>
+<p>AND</p> 
+<p>we need to ensure the polarity of the tracks are OK, depending on the layout. To avoid short circuits when track-connections are 'twisted' we insert some automation electronics which switches the polarity of the track when a train is passing.</p>
+<p>Finally:</p>
+<p>A windows program is introduced to control all the track switches, which are connected through a series of arduinos.</p>
 </p>
 <h2>
 <p>
