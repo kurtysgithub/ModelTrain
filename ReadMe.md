@@ -1,3 +1,4 @@
+# ModelTrain
 <!DOCTYPE html>
 <html>
 <body>
@@ -32,7 +33,7 @@ Before you can run it all, we need to establish some Power Supplies for the syst
 <a href="./03_Power_Supplies/README.md">3.Power Supplies</a>
 </p>
 <p>
-<a href="./04_Polarity_switches/README.md">4.Polarity Switches - automatic</a>
+<a href="./04_Polarity_Switches/README.md">4.Polarity Switches - automatic</a>
 </p>
 <p>
 <a href="./05_EndStop_Safety/README.md">5.EndStop Safety - electronics</a>
@@ -49,7 +50,7 @@ Before you can run it all, we need to establish some Power Supplies for the syst
 </p
 with
 <p>
-<a href="./11_TrackSwitch_control/README.md">11.Track Switch control</a>
+<a href="./11_TrackSwitch_Control/README.md">11.Track Switch control</a>
 </p>
 </h2>
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
