@@ -13,8 +13,8 @@ A decoder for the train is also build using an arduino.
 <h2>0.Introduction  </h2>
 
 
-<a href="../ModelTrain.md">Back to ModelTrain overview</a>
-<a href="../../index.md">Back to Main Page</a>
+<a href="../README.md">Back to ModelTrain overview</a>
+<a href="../../README.md">Back to Main Page</a>
 
 <h2> </h2>
 <p>I'm hosted with GitHub Pages.</p>
