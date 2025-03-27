@@ -14,14 +14,15 @@ The DCC++ signals send through the tracks from the controlunit to the trains are
 A control unit with 6 manual controls have been constructed using an arduino and related hardware.<p>
 A decoder for the train is also build using an arduino.
 </p>
+<h2>
 <p>
-<a href="./01_Intro/README.md"><h2>1.Introduction  </h2></a>
+<a href="./01_Intro/README.md">1.Introduction  </a>
 </p>
 <p>
-<a href="./02_Signal_Shapes/README.md"><h2>2.Signals in system</h2></a>
+<a href="./02_Signal_Shapes/README.md">2.Signals in system</a>
 </p>
 <p>
-<a href="./03_Power_Supplies/README.md"><h2>3.Power Supplies</h2></a>
+<a href="./03_Power_Supplies/README.md">3.Power Supplies</a></h2>
 </p>
 <p>
 <a href="./04_Polarity_switches/README.md"><h2>4.Polarity Switches - automatic</h2></a>
@@ -38,18 +39,14 @@ A decoder for the train is also build using an arduino.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 <p>
 <a href="./10_Windows_Track_Control/README.md"><h2>10.Windows Track Control</h2></a>
-</p>
+</p
+with
 <p>
 <a href="./11_TrackSwitch_control/README.md"><h2>11.Track Switch control</h2></a>
 </p>
-with
-<p>
-<a href="../README.md"><h2>3.Decoder - train electronics </h2></a>
-</p>
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
 <p>  
-<a href="../README.md">Return to Main Page</a>
+<a href="../README.md">Return to Model Train Page</a>
 </p>
 <p>I'm hosted with GitHub Pages.</p>
 </body>
