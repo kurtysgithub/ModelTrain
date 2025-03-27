@@ -8,6 +8,10 @@ This describes my homemade DCC++ model train system, where 6 trains can run at t
 The DCC++ signals send through the tracks from the controlunit to the trains are described - as well as the related coding.<p>
 A control unit with 6 manual controls have been constructed using an arduino and related hardware.<p>
 A decoder for the train is also build using an arduino.
+
+<img src="Testtrainpicture.jpg" alt="" border="0" align="left" width="" height="" />
+
+
 <h2>0.Introduction  </h2>
 <p> </p>
 <h2>1.Signals in system</h2>
