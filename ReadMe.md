@@ -54,9 +54,7 @@ with
 </p>
 </h2>
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-<p>  
-<a href="../README.md">Return to Model Train Page</a>
-</p>
+
 <p>I'm hosted with GitHub Pages.</p>
 </body>
 </html>
