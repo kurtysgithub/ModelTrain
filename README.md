@@ -24,7 +24,7 @@ Before you can run it all, we need to establish some Power Supplies for the syst
 </p>
 <h2>
 <p>
-<a href="./01_Intro/README.md">1.Introduction  </a>
+<a href="./01_Intro/# Introduction">1.Introduction  </a>
 </p>
 <p>
 <a href="./02_Signal_Shapes/README.md">2.Signals in system</a>
