@@ -31,7 +31,7 @@ The controlunit could have realised in software - with an on screen control - bu
 <p>This decoder is implemented with an optocupler feeding the controlsignal to an arduino-nano for decoding and controlling the train dc-engine through a power driver. TAKE NOTE: with some of the small trains I have, I had to place the electronics in the first wagoon placed after the train...If you are good at building electronics you may be able to squezze it all in!.. </p>
 
 <h3>Automatic Track Polarity Switcher</h3>
-<p>If you 'twist' your track-layout you may risc a shortcircuit in your system. To avoid this the tracks must be cut (remove electrical connections) at cirtain places. Normally you would have to make some manual change to switch the polarity of the tracks, but some electronics can help you make the train pass automaticly - will need to 'spend/use' approx. 50-70 cm of track to make this work.</p>
+<p>If you 'twist' your track-layout you may risc a shortcircuit in your system. To avoid this the tracks must be cut (remove electrical connections) at cirtain places. Normally you would have to make some manual change to switch the polarity of the tracks, but some electronics can help you make the train pass automaticly - you will need to 'spend/use' approx. 50-70 cm of track to make this work.</p>
 <p>Once again an arduino and some current sensors make the magic take place.</p>
 
 <h3>ENDStop Safety switching</h3>
@@ -47,6 +47,6 @@ The controlunit could have realised in software - with an on screen control - bu
 <p>I got myself a 3D printer - and make houses, cars, train-outfits, tree's etc myself....but that might take a while before I get to the desction of that..</p>
 <p>
 </p>
-<p><a href="../README.md">back to Model Train overview</a></p>
+<p><a href="./../README.md">back to Model Train overview</a></p>
 </body>
 </html>
