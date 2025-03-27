@@ -9,7 +9,7 @@ The DCC++ signals send through the tracks from the controlunit to the trains are
 A control unit with 6 manual controls have been constructed using an arduino and related hardware.<p>
 A decoder for the train is also build using an arduino.
 
-<img src="./Testtrainpicture.jpg" alt="" border="2" align="left" width="400" height="200" />
+<img src="./TESTtrainpicture.jpg" alt="" border="2" align="left" width="400" height="200" />
 
 
 <h2>0.Introduction  </h2>
