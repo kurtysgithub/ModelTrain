@@ -6,10 +6,10 @@ UNDER CONSTRUCTION
 <p> </p>
 This describes my homemade DCC++ model train system, where 6 trains can run at the same time.<p>
 The DCC++ signals send through the tracks from the controlunit to the trains are described - as well as the related coding.<p>
+<img src="./TESTtrainpicture.jpg" alt="" border="2" align="left" width="474" height="387" />
+<p></p>
 A control unit with 6 manual controls have been constructed using an arduino and related hardware.<p>
 A decoder for the train is also build using an arduino.
-
-<img src="./TESTtrainpicture.jpg" alt="" border="2" align="left" width="400" height="200" />
 
 
 <h2>0.Introduction  </h2>
