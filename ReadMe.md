@@ -8,11 +8,14 @@ UNDER CONSTRUCTION
 </p>
 <p>
 This describes my homemade DCC++ model train system, where 6 trains can run at the same time.<p>
-The DCC++ signals send through the tracks from the controlunit to the trains are described - as well as the related coding.
+The DCC++ signals - send from the controlunit through the tracks to the trains are described - as well as the related coding.
 </p>
 <p>
 A control unit with 6 manual controls have been constructed using an arduino and related hardware.<p>
 A decoder for the train is also build using an arduino.
+<p>BUT</p>
+Before you can run it all, we need to establish some Power Supplies for the system. 
+<p>AND we need to ensure the polarity of the tracks are OK, depending on the layout. To avoid short circuits when track-connections are 'twisted' we insert some automation electronics which switches the polarity of the track when a train is passing.</p>
 </p>
 <h2>
 <p>
@@ -22,28 +25,29 @@ A decoder for the train is also build using an arduino.
 <a href="./02_Signal_Shapes/README.md">2.Signals in system</a>
 </p>
 <p>
-<a href="./03_Power_Supplies/README.md">3.Power Supplies</a></h2>
+<a href="./03_Power_Supplies/README.md">3.Power Supplies</a>
 </p>
 <p>
-<a href="./04_Polarity_switches/README.md"><h2>4.Polarity Switches - automatic</h2></a>
+<a href="./04_Polarity_switches/README.md">4.Polarity Switches - automatic</a>
 </p>
 <p>
-<a href="./05_EndStop_Safety/README.md"><h2>5.EndStop Safety - electronics</h2></a>
+<a href="./05_EndStop_Safety/README.md">5.EndStop Safety - electronics</a>
 </p>
 <p>
-<a href="./06_Controlunit_Encoder/README.md"><h2>6.controlunit Encoder</h2></a>
+<a href="./06_Controlunit_Encoder/README.md">6.controlunit Encoder</a>
 </p>
 <p>
-<a href="./07_Trains_Decoder/README.md"><h2>7.Trains Decoder</h2></a>
+<a href="./07_Trains_Decoder/README.md">7.Trains Decoder</a>
 </p>
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 <p>
-<a href="./10_Windows_Track_Control/README.md"><h2>10.Windows Track Control</h2></a>
+<a href="./10_Windows_Track_Control/README.md">10.Windows Track Control</a>
 </p
 with
 <p>
-<a href="./11_TrackSwitch_control/README.md"><h2>11.Track Switch control</h2></a>
+<a href="./11_TrackSwitch_control/README.md">11.Track Switch control</a>
 </p>
+</h2>
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 <p>  
 <a href="../README.md">Return to Model Train Page</a>
