@@ -5,7 +5,7 @@
 <h1>DCC++ DIY</h1>
 UNDER CONSTRUCTION
 <p> 
-<img src="./TESTtrainpicture.jpg" alt="" border="2" align="left" width="474" height="387" />
+<img src="./Dublin.jpg" alt="" border="2" align="left" width="680" height="330" />
 </p>
 <p>
 This describes my homemade DCC++ model train system, where 6 trains can run at the same time.<p>

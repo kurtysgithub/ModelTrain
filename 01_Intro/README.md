@@ -15,7 +15,8 @@ An old fashioned dc-model-train system running one train at a time on DC, has be
 <p>In order ot make a project like the one described here you should be familiar with electronics theory and construction. </p>
 </p>The hardware is fairly simple to implement - but may call for some knowledge if you need to troubleshoot the circuits on your way.</p>
 <p>The software is more complex and some experience working with arduino programming is a must...</p>
-
+<img src="MwnAtWork.jpg" alt="1" border="0" align="left" width="640" height="320" />
+<p>My train setup - control unit just below the table and track-switching software handled on the screen.</p>
 <h2>What 'do you get'?</h2>
 <h3>The Controlunit</h3>
 <p>A <b>Controlunit</b> is used to set each train on/off, set the desired train driving direction as well as the desired speed.</p>
