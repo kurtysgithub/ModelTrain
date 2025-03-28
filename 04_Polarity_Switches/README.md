@@ -10,7 +10,6 @@
 	 <p>To avoid this you'll have to cut the tracks so that no connection is possible all way round at the same time. Unfortunately doing so will course you trouble when you run your train - because the wheels on the train may short the 'cuts' you have made</p>
 	 <p>The solution to this is to isolate a piece of track (cut the rails more places) and connect a few switches to the isolated part of the track.<br/> When the train is outgoing you connect the isolated parts to the outgoing track. As the train drives into the isolated part - you disconnect the outgoing supply connection to the isolated part and switch it to the ingoing supply.<br/> Now your train can pass nicely.</p>
 	 <p>You can make a manual system, if you like to be kept busy while driving your trains - or you can insert some automation electronics to help you.<br/>
-	 
 	 Polatiry Switching electronics	<br/><br/> 
 	 Here we make an isolated piece of track as an automatic switching section. The isolated piece of track is divided into 3 part - 1,2,3.<br/>
 	 Part1 is normally connected (through a relay) to the outgoing track.<br/>
