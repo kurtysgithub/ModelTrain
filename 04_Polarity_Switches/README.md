@@ -11,7 +11,7 @@
 	 <p>The solution to this is to isolate a piece of track (cut the rails more places) and connect a few switches to the isolated part of the track.<br/> When the train is outgoing you connect the isolated parts to the outgoing track. As the train drives into the isolated part - you disconnect the outgoing supply connection to the isolated part and switch it to the ingoing supply.<br/> Now your train can pass nicely.</p>
 	 <p>You can make a manual system, if you like to be kept busy while driving your trains - or you can insert some automation electronics to help you.</p>
 	 
-	 <h3>Polatiry Switching electronics</h3>
+	 Polatiry Switching electronics<br/>
 	 
 	 <p>Here we make an isolated piece of track as an automatic switching section. The isolated piece of track is divided into 3 part - 1,2,3.<br/>
 	 Part1 is normally connected (through a relay) to the outgoing track.<br/>
