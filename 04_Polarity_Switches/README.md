@@ -9,11 +9,9 @@
 	 BUT if you try to make a loop where you turn the outgoing track into a loop and make it come back as incomming track to connect to the outgoing track - you'll see that the 'outside' rail suddenly will have to connect to the 'inside' rail - i.e. you create a SHORT CIRCUIT ! (and may have to say goodbuy to your power supply :-(  )</p>
 	 <p>To avoid this you'll have to cut the tracks so that no connection is possible all way round at the same time. Unfortunately doing so will course you trouble when you run your train - because the wheels on the train may short the 'cuts' you have made</p>
 	 <p>The solution to this is to isolate a piece of track (cut the rails more places) and connect a few switches to the isolated part of the track.<br/> When the train is outgoing you connect the isolated parts to the outgoing track. As the train drives into the isolated part - you disconnect the outgoing supply connection to the isolated part and switch it to the ingoing supply.<br/> Now your train can pass nicely.</p>
-	 <p>You can make a manual system, if you like to be kept busy while driving your trains - or you can insert some automation electronics to help you.</p>
-	 
-	 Polatiry Switching electronics<br/>
-	 
-	 <p>Here we make an isolated piece of track as an automatic switching section. The isolated piece of track is divided into 3 part - 1,2,3.<br/>
+	 <p>You can make a manual system, if you like to be kept busy while driving your trains - or you can insert some automation electronics to help you.	 
+	 Polatiry Switching electronics<br/>	 
+	 Here we make an isolated piece of track as an automatic switching section. The isolated piece of track is divided into 3 part - 1,2,3.<br/>
 	 Part1 is normally connected (through a relay) to the outgoing track.<br/>
 	 Part2 is normally not connected to anything (relays are off) - but is used the the polarity must be changes...we will describe this shortly.<br/>
 	 Part4 is normally connected (through a relay) to the incomming track.
