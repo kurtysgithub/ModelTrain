@@ -4,9 +4,7 @@
 <body>
 <h1>DCC++ DIY</h1>
 UNDER CONSTRUCTION
-<p> 
 <img src="./Dublin.jpg" alt="" border="2" align="left" width="720" height="280" />
-</p>
 <p>
 This describes my homemade DCC++ model train system, where 6 trains can run at the same time.<p>
 The DCC++ signals - send from the controlunit through the tracks to the trains are described - as well as the related coding.
